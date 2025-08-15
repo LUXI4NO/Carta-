@@ -21,7 +21,7 @@ st.markdown("---")
 momentos = [
     ("Nuestro Primer mes Juntos", "Foto1.jpeg", """Nuestro amor ya venía creciendo, pero el 16 de agosto decidimos darle una fecha especial. Juntos fortalecemos nuestra relación, amándonos cada vez más y acompañándonos en cada momento. Este año a tu lado ha sido una montaña rusa de emociones que nunca pensé vivir, porque jamás amé a nadie como te amo a vos. Por eso, ese 16 de agosto quise que fueras mía para siempre.
 """),
-    ("Nuestro Segundo mes Juntos", "Foto2.jpeg", """Gracias a esta relación, cada día es una oportunidad para que seamos felices. Los desafíos que trajo el tiempo los superamos juntos y a tu lado no solo me dieron más razones para amarte, sino que me hacen valorar cada abrazo, beso o sonrisa. Me encuentro agradecido por todo lo que hemos vivido.
+    ("Nuestro Segundo mes Juntos", "Foto2.jpeg", """Gracias a esta relacion, cada dia es una oportunidad para que seamos felices. Los desafios que nos tiro el tiempo los superamos juntos y, a tu lado, no solo me dieron mas razones para amarte, sino que me hacen valorar cada abrazo, beso o sonrisa. Estoy re agradecido por todo lo que vivimos.
 """),
     ("Nuestro Tercer mes Juntos", "Foto3.jpeg", """Juntos, seguimos construyendo un amor que se siente más sólido y hermoso con cada paso que damos. Nunca imaginé que alguien pudiera inspirarme a ser una mejor persona como lo hacés vos. Cada día me doy cuenta de la suerte que tengo de tenerte en mi vida. Al lado tuyo aprendí que el amor crece todos los días, y jamás pensé que encontraría tanta paz y felicidad en una sola persona.
 """),
@@ -61,6 +61,7 @@ st.markdown("<h2 style='text-align:center; margin-top:30px;'>Feliz Año mi Celos
 
 # Música de fondo desde YouTube
 st.video("https://www.youtube.com/watch?v=neF178J-eKQ&ab_channel=LaTyLaM")
+
 
 
 
