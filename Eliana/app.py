@@ -27,7 +27,7 @@ momentos = [
 """),
     ("Nuestro Cuarto mes Juntos", "Foto4.jpeg", """Valoro cada vez mas lo que compartimos, esos momentos de dos gordos hermosos que nos encanta comer y disfrutar juntos. Ya sean nuestras meriendas, comidas, hamburguesas, pasteles o panchos, cada instante es un tesoro. Por eso, elijo quedarme a tu lado siempre, sin importar las circunstancias. Sin quererlo y sin remedio, cada dia me enamoro mas de vos, y juntos seguimos sumando recuerdos que atesoraremos para siempre.
 """),
-    ("Nuestro Quinto mes Juntos", "Foto5.jpeg", """Apostamos por el otro, por un amor verdadero y duradero, porque hoy no me imagino un futuro, un plan, ni a mi mismo sin vos. Jamas pense que algo tan bonito pudiera existir para mi, ni que encontraria a alguien que fuera mi calma y mi pilar al mismo tiempo. Juntos nos reimos, sonamos y nos amamos, y eso es lo que mas me gusta de nuestra vida.
+    ("Nuestro Quinto mes Juntos", "Foto5.jpeg", """Apostamos por el otro, por un amor verdadero y duradero, porque hoy no me imagino un futuro, un plan, ni a mi mismo sin vos. Jamas pense que algo tan bonito pudiera existir para mi, ni que encontraria a alguien que fuera mi calma y mi pilar al mismo tiempo. Juntos nos reimos, soñamos y nos amamos, y eso es lo que mas me gusta de nuestra vida.
 """),
     ("Nuestro Sexto mes Juntos", "Foto6.jpeg", """Juntos, seguimos aprendiendo a amarnos de formas nuevas, sin miedo y con entrega total. El tiempo a tu lado me ha hecho sentir emociones que jamas crei posibles. Por eso, cada dia reafirmo que sos la mejor decision que he tomado. Y por eso, cada instante con vos es un tesoro que guardo para siempre.
 """),
@@ -37,11 +37,11 @@ momentos = [
 """),
     ("Nuestro Noveno mes Juntos", "Foto9.jpeg", """Todo el tiempo que estuvimos juntos me hizo ver que no hay amor mas grande que el que siento por vos. Es como si la vida me hubiera regalado a la persona mas maravillosa y por eso para mi sos un milagro. Prometo seguir cuidando y amando lo nuestro para siempre. No voy a soltar tu mano nunca.
 """),
-    ("Nuestro Decimo mes Juntos", "Foto10.jpeg", """Todo el tiempo que pasamos juntos me hizo ver que no hay amor mas grande que el que siento por vos. Lo que siento es un milagro, como si la vida me hubiese regalado a la persona mas linda para tener a mi lado. Prometo seguir cuidando y amando lo nuestro para siempre, y no soltarte nunca.
+    ("Nuestro Decimo mes Juntos", "Foto10.jpeg", """Todo el tiempo que pasamos juntos me hizo ver que no hay amor mas grande que el que siento por vos. Lo que siento es un milagro, como si la vida me hubiese regalado a la persona mas linda para tener a mi lado.
 """),
     ("Nuestro Undecimo mes Juntos", "Foto11.jpeg", """Con vos comprendi que cada dia es una aventura distinta. Juntos, superamos pruebas que nos hicieron mas fuertes y mas unidos. Aprendi que el amor verdadero es constante y paciente. Ahora, nos hemos convertido en el refugio y la fuerza el uno para el otro.
 """),
-    ("Nuestro Primer año Juntos", "Foto12.jpeg", """Juntos, construimos una vida llena de risas, apoyo incondicional y momentos inolvidables. A tu lado, comprendi que no hay amor mas grande que el que siento por vos, y que la felicidad mas pura se encuentra en las pequenas cosas que compartimos. Sos mi calma, mi fuerza y el hogar al que siempre quiero volver. Gracias por ser el milagro que cambio mi mundo. Feliz año.
+    ("Nuestro Primer año Juntos", "Foto12.jpeg", """Juntos, construimos una vida llena de risas, apoyo incondicional y momentos inolvidables. A tu lado, comprendi que no hay amor mas grande que el que siento por vos, y que la felicidad mas pura se encuentra en las pequeñas cosas que compartimos. Sos mi calma, mi fuerza y el hogar al que siempre quiero volver. Gracias por ser el milagro que cambio mi mundo. Feliz año.
 """),
 
 ]
@@ -62,6 +62,7 @@ st.markdown("<h2 style='text-align:center; margin-top:30px;'>Feliz Año mi Celos
 
 # Música de fondo desde YouTube
 st.video("https://www.youtube.com/watch?v=neF178J-eKQ&ab_channel=LaTyLaM")
+
 
 
 
