@@ -12,20 +12,18 @@ def get_image_path(nombre_archivo):
 st.markdown("<h1 style='text-align: center;'>Nuestro primer año juntos</h1>", unsafe_allow_html=True)
 st.markdown("""
 <h6 style='text-align: center;'>
-Escribo cada una de estas líneas pensando en la persona que llegó a mi mundo y lo convirtió en uno mejor.
-Vos, la mujer que amo, te convertiste en un pilar fundamental para mí.
-Por eso, quiero decirte gracias por elegirme y dedicarte estas letras.
+Escribo cada una de estas líneas pensando en la persona que llegó a mi mundo y lo convirtió en uno mejor. Vos, la mujer que amo, te convertiste en un pilar fundamental para mí. Por eso, quiero decirte gracias por elegirme y dedicarte estas letras.
 </h6>
 """, unsafe_allow_html=True)
 st.markdown("---")
 
 # --- Datos de cada mes ---
 momentos = [
-    ("Nuestro Primer mes Juntos", "Foto1.jpeg", """Nuestro amor ya venía creciendo, pero el 16 de agosto decidimos darle una fecha especial...
+    ("Nuestro Primer mes Juntos", "Foto1.jpeg", """Nuestro amor ya venía creciendo, pero el 16 de agosto decidimos darle una fecha especial. Juntos fortalecemos nuestra relación, amándonos cada vez más y acompañándonos en cada momento. Este año a tu lado ha sido una montaña rusa de emociones que nunca pensé vivir, porque jamás amé a nadie como te amo a vos. Por eso, ese 16 de agosto quise que fueras mía para siempre.
 """),
-    ("Nuestro Segundo mes Juntos", "Foto2.jpeg", """Gracias a esta relación, cada día es una oportunidad para que seamos felices...
+    ("Nuestro Segundo mes Juntos", "Foto2.jpeg", """Gracias a esta relación, cada día es una oportunidad para que seamos felices. Los desafíos que trajo el tiempo los superamos juntos y a tu lado no solo me dieron más razones para amarte, sino que me hacen valorar cada abrazo, beso o sonrisa. Me encuentro agradecido por todo lo que hemos vivido.
 """),
-    ("Nuestro Tercer mes Juntos", "Foto3.jpeg", """Juntos, seguimos construyendo un amor que se siente más sólido y hermoso...
+    ("Nuestro Tercer mes Juntos", "Foto3.jpeg", """Juntos, seguimos construyendo un amor que se siente más sólido y hermoso con cada paso que damos. Nunca imaginé que alguien pudiera inspirarme a ser una mejor persona como lo hacés vos. Cada día me doy cuenta de la suerte que tengo de tenerte en mi vida. Al lado tuyo aprendí que el amor crece todos los días, y jamás pensé que encontraría tanta paz y felicidad en una sola persona.
 """),
     ("Nuestro Cuarto mes Juntos", "Foto4.jpeg", """Valoro cada vez más lo que compartimos, esos momentos de dos gordos hermosos...
 """),
@@ -56,3 +54,4 @@ for titulo, archivo_imagen, texto in momentos:
     with col2:
         st.markdown(f"<div style='text-align: center; margin-top: 50px;'><p>{texto}</p></div>", unsafe_allow_html=True)
     st.markdown("---")
+
