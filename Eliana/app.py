@@ -19,30 +19,31 @@ st.markdown("---")
 
 # --- Datos de cada mes ---
 momentos = [
-    ("Nuestro Primer mes Juntos", "Foto1.jpeg", """Nuestro amor ya venía creciendo, pero el 16 de agosto decidimos darle una fecha especial. Juntos fortalecemos nuestra relación, amándonos cada vez más y acompañándonos en cada momento. Este año a tu lado ha sido una montaña rusa de emociones que nunca pensé vivir, porque jamás amé a nadie como te amo a vos. Por eso, ese 16 de agosto quise que fueras mía para siempre.
+    ("Nuestro Primer mes Juntos", "Foto1.jpeg", """Nuestro amor ya venia creciendo, pero el 16 de agosto decidimos darle una fecha especial. Juntos fortalecemos nuestra relacion, amandonos cada vez mas y acompañandonos en cada momento. Este año a tu lado ha sido una montaña rusa de emociones que nunca pense vivir, porque jamas ame a nadie como te amo a vos. Por eso, ese 16 de agosto quise que fueras mia para siempre.
 """),
     ("Nuestro Segundo mes Juntos", "Foto2.jpeg", """Gracias a esta relacion, cada dia es una oportunidad para que seamos felices. Los desafios que nos tiro el tiempo los superamos juntos y, a tu lado, no solo me dieron mas razones para amarte, sino que me hacen valorar cada abrazo, beso o sonrisa. Estoy re agradecido por todo lo que vivimos.
 """),
-    ("Nuestro Tercer mes Juntos", "Foto3.jpeg", """Juntos, seguimos construyendo un amor que se siente más sólido y hermoso con cada paso que damos. Nunca imaginé que alguien pudiera inspirarme a ser una mejor persona como lo hacés vos. Cada día me doy cuenta de la suerte que tengo de tenerte en mi vida. Al lado tuyo aprendí que el amor crece todos los días, y jamás pensé que encontraría tanta paz y felicidad en una sola persona.
+    ("Nuestro Tercer mes Juntos", "Foto3.jpeg", """Juntos, seguimos construyendo un amor que se siente mas solido y hermoso con cada paso que damos. Nunca imagine que alguien pudiera inspirarme a ser una mejor persona como lo haces vos. Cada dia me doy cuenta de la suerte que tengo de tenerte en mi vida. Al lado tuyo aprendi que el amor crece todos los dias, y jamas pense que encontraria tanta paz y felicidad en una sola persona.
 """),
-    ("Nuestro Cuarto mes Juntos", "Foto4.jpeg", """Valoro cada vez más lo que compartimos, esos momentos de dos gordos hermosos que nos encanta comer y disfrutar juntos. Ya sean nuestras meriendas, comidas, hamburguesas, pasteles o panchos, cada instante es un tesoro. Por eso, elijo quedarme a tu lado siempre, sin importar las circunstancias. Sin quererlo y sin remedio, cada día me enamoro más de vos, y juntos seguimos sumando recuerdos que atesoraremos para siempre.
+    ("Nuestro Cuarto mes Juntos", "Foto4.jpeg", """Valoro cada vez mas lo que compartimos, esos momentos de dos gordos hermosos que nos encanta comer y disfrutar juntos. Ya sean nuestras meriendas, comidas, hamburguesas, pasteles o panchos, cada instante es un tesoro. Por eso, elijo quedarme a tu lado siempre, sin importar las circunstancias. Sin quererlo y sin remedio, cada dia me enamoro mas de vos, y juntos seguimos sumando recuerdos que atesoraremos para siempre.
 """),
-    ("Nuestro Quinto mes Juntos", "Foto5.jpeg", """Apostamos por el otro, por un amor verdadero y duradero, porque hoy no me imagino un futuro, un plan, ni a mí mismo sin vos. Jamás pensé que algo tan bonito pudiera existir para mí, ni que encontraría a alguien que fuera mi calma y mi pilar al mismo tiempo. Juntos nos reímos, soñamos y nos amamos, y eso es lo que más me gusta de nuestra vida.
+    ("Nuestro Quinto mes Juntos", "Foto5.jpeg", """Apostamos por el otro, por un amor verdadero y duradero, porque hoy no me imagino un futuro, un plan, ni a mi mismo sin vos. Jamas pense que algo tan bonito pudiera existir para mi, ni que encontraria a alguien que fuera mi calma y mi pilar al mismo tiempo. Juntos nos reimos, sonamos y nos amamos, y eso es lo que mas me gusta de nuestra vida.
 """),
-    ("Nuestro Sexto mes Juntos", "Foto6.jpeg", """Juntos, seguimos aprendiendo a amarnos de formas nuevas, sin miedo y con entrega total. El tiempo a tu lado me ha hecho sentir emociones que jamás creí posibles. Por eso, cada día reafirmo que sos la mejor decisión que he tomado. Y por eso, cada instante con vos es un tesoro que guardo para siempre.
+    ("Nuestro Sexto mes Juntos", "Foto6.jpeg", """Juntos, seguimos aprendiendo a amarnos de formas nuevas, sin miedo y con entrega total. El tiempo a tu lado me ha hecho sentir emociones que jamas crei posibles. Por eso, cada dia reafirmo que sos la mejor decision que he tomado. Y por eso, cada instante con vos es un tesoro que guardo para siempre.
 """),
-    ("Nuestro Séptimo mes Juntos", "Foto7.jpeg", """Aprendimos a amarnos, a soportarnos y a tratarnos, entendiendo nuestras actitudes y diferencias. Con el tiempo, y sin miedo, nos fuimos acomodando el uno para el otro. A tu lado sentí emociones que creía imposibles, cambiando mi panorama por completo. Por eso, hoy reafirmo que sos lo mejor que me pasó en la vida y por eso sos un tesoro para mí.
+    ("Nuestro Septimo mes Juntos", "Foto7.jpeg", """Aprendimos a amarnos, a soportarnos y a tratarnos, entendiendo nuestras actitudes y diferencias. Con el tiempo, y sin miedo, nos fuimos acomodando el uno para el otro. A tu lado senti emociones que creia imposibles, cambiando mi panorama por completo. Por eso, hoy reafirmo que sos lo mejor que me paso en la vida y por eso sos un tesoro para mi.
 """),
     ("Nuestro Octavo mes Juntos", "Foto8.jpeg", """Amo hacer planes con vos, pero mi verdadera felicidad es simplemente el tiempo que pasamos juntos. La presencia de vos a mi lado es suficiente para que todo este amor tenga sentido. Agradezco cada instante que compartimos, donde encuentro paz. Ya sea cuando nos tomamos de la mano, cuando almorzamos o merendamos, o cuando simplemente dormimos juntos, no quiero que el tiempo pase nunca.
 """),
-    ("Nuestro Noveno mes Juntos", "Foto9.jpeg", """Todo el tiempo que estuvimos juntos me hizo ver que no hay amor más grande que el que siento por vos. Es como si la vida me hubiera regalado a la persona más maravillosa y por eso para mí sos un milagro. Prometo seguir cuidando y amando lo nuestro para siempre. No voy a soltar tu mano nunca.
+    ("Nuestro Noveno mes Juntos", "Foto9.jpeg", """Todo el tiempo que estuvimos juntos me hizo ver que no hay amor mas grande que el que siento por vos. Es como si la vida me hubiera regalado a la persona mas maravillosa y por eso para mi sos un milagro. Prometo seguir cuidando y amando lo nuestro para siempre. No voy a soltar tu mano nunca.
 """),
-    ("Nuestro Décimo mes Juntos", "Foto10.jpeg", """Todo el tiempo que pasamos juntos me hizo ver que no hay amor más grande que el que siento por vos. Lo que siento es un milagro, como si la vida me hubiese regalado a la persona más linda para tener a mi lado. Prometo seguir cuidando y amando lo nuestro para siempre, y no soltarte nunca.
+    ("Nuestro Decimo mes Juntos", "Foto10.jpeg", """Todo el tiempo que pasamos juntos me hizo ver que no hay amor mas grande que el que siento por vos. Lo que siento es un milagro, como si la vida me hubiese regalado a la persona mas linda para tener a mi lado. Prometo seguir cuidando y amando lo nuestro para siempre, y no soltarte nunca.
 """),
-    ("Nuestro Undécimo mes Juntos", "Foto11.jpeg", """Con vos comprendí que cada día es una aventura distinta. Juntos, superamos pruebas que nos hicieron más fuertes y más unidos. Aprendí que el amor verdadero es constante y paciente. Ahora, nos hemos convertido en el refugio y la fuerza el uno para el otro.
+    ("Nuestro Undecimo mes Juntos", "Foto11.jpeg", """Con vos comprendi que cada dia es una aventura distinta. Juntos, superamos pruebas que nos hicieron mas fuertes y mas unidos. Aprendi que el amor verdadero es constante y paciente. Ahora, nos hemos convertido en el refugio y la fuerza el uno para el otro.
 """),
-    ("Nuestro Primer año Juntos", "Foto12.jpeg", """Juntos, construimos una vida llena de risas, apoyo incondicional y momentos inolvidables. A tu lado, comprendí que no hay amor más grande que el que siento por vos, y que la felicidad más pura se encuentra en las pequeñas cosas que compartimos. Sos mi calma, mi fuerza y el hogar al que siempre quiero volver. Gracias por ser el milagro que cambió mi mundo. Feliz año.
+    ("Nuestro Primer año Juntos", "Foto12.jpeg", """Juntos, construimos una vida llena de risas, apoyo incondicional y momentos inolvidables. A tu lado, comprendi que no hay amor mas grande que el que siento por vos, y que la felicidad mas pura se encuentra en las pequenas cosas que compartimos. Sos mi calma, mi fuerza y el hogar al que siempre quiero volver. Gracias por ser el milagro que cambio mi mundo. Feliz año.
 """),
+
 ]
 
 # --- Mostrar cada mes ---
@@ -61,6 +62,7 @@ st.markdown("<h2 style='text-align:center; margin-top:30px;'>Feliz Año mi Celos
 
 # Música de fondo desde YouTube
 st.video("https://www.youtube.com/watch?v=neF178J-eKQ&ab_channel=LaTyLaM")
+
 
 
 
