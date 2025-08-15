@@ -56,3 +56,11 @@ for titulo, archivo_imagen, texto in momentos:
     st.markdown("---")
 
 
+# --- Centrar el botón usando columnas ---
+st.markdown("<h2 style='text-align:center; margin-top:30px;'>Feliz Año mi Celosa Hermosa ❤️</h2>", unsafe_allow_html=True)
+
+# Música de fondo desde YouTube
+st.video("https://www.youtube.com/watch?v=neF178J-eKQ&ab_channel=LaTyLaM")
+
+
+
